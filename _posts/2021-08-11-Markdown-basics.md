@@ -6,7 +6,7 @@ To change the line, "enter" has to be pressed twice at the end of line.
 ## 1. There are several highlight markings. 
 
 
-'''
+```
 
 First, *single asterisks* 
 
@@ -18,7 +18,7 @@ Fourth, __double underscores__
 
 Fifth, ~~cancelline~~
 
-'''
+```
 
 First, *single asterisks* 
 
@@ -33,7 +33,7 @@ Fifth, ~~cancelline~~
 
 ## 2.  There is a lot of kinds of headings
 
-'''
+```
 
 # This is a H1
 ## This is a H2
@@ -44,7 +44,7 @@ Fifth, ~~cancelline~~
 ####### This is a H7
 ######## This is a H8 (Headings don't get smaller after H6)
 
-'''
+```
 
 # This is a H1
 ## This is a H2
@@ -58,15 +58,13 @@ Fifth, ~~cancelline~~
 
 ## 3. Quatations
 
-'''
+```
 > This is a blockqute.
 > >This is a blockqute.
 > >>This is a blockqute.
 > >>>This is a blockqute.
 > >>>>This is a blockqute.
-
-
-'''
+```
 
 > This is a blockqute.
 > >This is a blockqute.
@@ -77,12 +75,12 @@ Fifth, ~~cancelline~~
 
 ## 4. Sorting lists
 
-'''
+```
 1.Spring
 2.Summer
 3.Autumn
 4.Winter
-'''
+```
 
 1.Spring
 2.Summer
@@ -92,13 +90,13 @@ Fifth, ~~cancelline~~
 
 ## 5. non-Sorting lists
 
-'''
+```
 * snack
 	* ramen
 		* candy
 			* bicycle
 				* umbrella
-'''
+```
 
 * snack
 	* ramen
@@ -106,13 +104,13 @@ Fifth, ~~cancelline~~
 			* bicycle
 				* umbrella
 
-'''
+```
 + snack
 	+ ramen
 		+ candy
 			+ bicycle
 				+ umbrella
-'''
+```
 
 + snack
 	+ ramen
@@ -121,13 +119,13 @@ Fifth, ~~cancelline~~
 				+ umbrella
 
 
-'''
+```
 - snack
 	- ramen
 		- candy
 			- bicycle
 				- umbrella
-'''
+```
 
 - snack
 	- ramen
@@ -138,11 +136,11 @@ Fifth, ~~cancelline~~
 
 ## 6. Code quotations
 
-'''
+```
 fuction test() {
 	console.log("notice the blank line before this function?");
 
-'''
+```
 fuction test() {
 	console.log("notice the blank line before this function?");
 
@@ -151,19 +149,19 @@ fuction test() {
 - ruby
 
 
-'''ruby
+```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
-'''
+```
 
 - python
 
 
-'''python
+```python
 s = "python syntax highlighting"
 print s
-'''
+```
 
 ## 8. Horizontal Lines
 
@@ -197,4 +195,10 @@ print s
 
 
 EoD.
+
+Reference 
+
+1. [취미로 코딩하는 개발자](https://devinlife.com/howto%20github%20pages/markdown-syntax/#210-%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
+2. [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601#file-how-to-write-by-markdown-md)
 
