@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -25,7 +25,7 @@ url                      : "https://juh5ng.github.io/aiactuary.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/profile.jpg"
-logo                     : "/assets/images/red-geometric-wallpaper-3.jpg"
+logo                     : "/assets/images/Red-Geometric-Wallpaper-3.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,15 +104,15 @@ author:
   name             : "Juhong Hyun"
   avatar           : "/assets/images/profile.jpg"
   bio              : "Pricing Actuary in Carrot General Insurance, Korea. Having Deep interests on the UBI(Usage Based Insurance) model, interpretable Machine Learning, optimal underwriting strateges, crypto currencies, and investments"
-  location         : "Seoul, South Korea"
-  email            :
+  location         : "South Korea"
+  email            : "hyunjuhong939@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:hyunjuhong939@gmail.com
+      url: mailto:hyunjuhong939@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://juh5ng.github.io/aiactuary.github.io"
+      url: "https://juh5ng.github.io/aiactuary.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -121,10 +121,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/juh5ng/aiactuary.github.io"
+      url: "https://github.com/juh5ng/aiactuary.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/juhong_hyun/"
+      url: "https://www.instagram.com/juhong_hyun/"
 
 # Site Footer
 footer:
