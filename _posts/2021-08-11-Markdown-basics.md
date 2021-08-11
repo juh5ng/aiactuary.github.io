@@ -1,5 +1,5 @@
-# This is the basic text marking method.
-Markdown can't understand line-break with a simple enter key pressing.
+# These are the basic text marking methods.
+Markdown can't understand line-break with simply pressing an enter key.
 
 To change the line, "enter" has to be pressed twice at the end of line. 
 
@@ -165,6 +165,14 @@ print s
 
 ## 8. Horizontal Lines
 
+```
+* * *
+***
+******
+- - -
+----------------
+```
+
 * * *
 ***
 ******
@@ -194,9 +202,11 @@ print s
 |bread| 2$ | 20|
 
 
+
 EoD.
 
-Reference 
+
+#### References 
 
 1. [취미로 코딩하는 개발자](https://devinlife.com/howto%20github%20pages/markdown-syntax/#210-%ED%91%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
