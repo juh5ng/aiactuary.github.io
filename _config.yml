@@ -125,6 +125,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/juhong_hyun/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/juhong-hyun-02b041ba/"
 
 # Site Footer
 footer:
