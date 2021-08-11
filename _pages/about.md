@@ -1,3 +1,4 @@
+---
 title: "Blog Introduction"
 permalink: /about/
 layout: single
