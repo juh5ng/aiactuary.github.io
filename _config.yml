@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "Pricing Actuary in Carrot General Insurance, Korea. Having Deep interests on the UBI(Usage Based Insurance) model, interpretable Machine Learning, optimal underwriting strateges, crypto currencies, and investments"
   location         : "South Korea"
-  email            : "hyunjuhong939@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -227,6 +227,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll/figure 
 
 # mimic GitHub Pages with --safe
 whitelist:
