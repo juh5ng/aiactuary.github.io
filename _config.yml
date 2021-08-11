@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:hyunjuhong939@gmail.com
+       url: "mailto:hyunjuhong939@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        url: "https://juh5ng.github.io/aiactuary.github.io"
