@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Visit my Blog"
+  - title: "Home"
     url: https://juh5ng.github.io/aiactuary.github.io
   - title: "About"
     url: https://juh5ng.github.io/aiactuary.github.io/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Interpretable Machine Learning"
+    url: /category/Interpretable Machine Learning/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
