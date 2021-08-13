@@ -1,7 +1,7 @@
 ---
 title: "Interpretable Machine Learning"
 layout: category
-permalink: /category/Interpretable Machine Learning/
+permalink: /category/interpretable-machine-learning/
 author_profile: true
 taxonomy: Interpretable Machine Learning
 ---
