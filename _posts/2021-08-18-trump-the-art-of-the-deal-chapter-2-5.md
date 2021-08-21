@@ -1,5 +1,5 @@
 ---
-title:  "[TRUMP:The Art of the Deal] Chapter 2~3 \"
+title:  "[TRUMP:The Art of the Deal] Chapter 2~3"
 excerpt: "[TRUMP:The Art of the Deal]"
 toc: true
 toc_sticky: true
