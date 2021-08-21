@@ -1,5 +1,5 @@
 ---
-title:  "[TRUMP:The Art of the Deal] Chapter 2~3 \"
+title:  "[TRUMP:The Art of the Deal] Chapter 2 ~ 5"
 excerpt: "[TRUMP:The Art of the Deal]"
 toc: true
 toc_sticky: true
@@ -34,6 +34,14 @@ The principles below are those common things.
 Trump was largely influenced by his father. Trump's father was a construction businessman. The construction industry is tough. His father let Trump know how to respond toughly, how to lead people, and what the competition and efficiency are. Trump even went to collect money when his father was running apartments rental business. During this time Trump had a bigger dream than his father. He wanted to do a bigger in scale, luxurious, and interesting business. 
 
 He has been offensive and stubborn since childhood. He even had hit his teacher in the elementary school when he didn't like what the teacher said. His father knew that Trump could grow in the wrong way if he grew with no other restrictions, so Trump was put to the military school. Trump learned many things about leadership on the school.
+
+# Chapter 4. Cincinnati hillbilly opens his eyes to real estate business
+
+# Chapter 5. Westside Story
+
+# Chapter 6. Grand Hyatt hotel: revive the heart of New York 
+
+
 
 
 ## Who is Donald Trump?
